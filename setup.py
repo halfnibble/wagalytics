@@ -6,7 +6,7 @@ setup(
     version=__version__,
     description='Show Google Analytics data in Wagtail.',
     long_description='See https://github.com/tomdyson/wagalytics for details',
-    url='https://github.com/tomdyson/wagalytics',
+    url='https://github.com/halfnibble/wagalytics',
     author='Tom Dyson',
     author_email='tom+wagalytics@torchbox.com',
     license='MIT',
